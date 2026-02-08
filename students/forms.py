@@ -23,5 +23,3 @@ class StudentForm(forms.ModelForm):
         }
 
 
-# class SearchForm(forms.ModelForm):
-#     class Meta:
